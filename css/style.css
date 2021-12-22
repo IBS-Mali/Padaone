@@ -1,10 +1,5 @@
-h1 {
-    text-align: center;
-}
-footer {
-    display: flex;
-    justify-content: center;
-    padding: 10px;
-    background-color: rgb(63, 15, 15);
-    color: #fff;
-}
+body {
+    background-image: url("https://images.hdqwalls.com/download/camel-leaders-silhouette-bz-1920x1080.jpg");
+  background-position: center; 
+  background-repeat: no-repeat; 
+  }
