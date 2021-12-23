@@ -3,3 +3,17 @@ body {
   background-position: center; 
   background-repeat: no-repeat; 
   }
+td{
+  padding: 1px;
+}
+  #g{
+    background-color: green;
+    height: 1px;
+  }
+  #y{
+    background-color: yellow;
+  }
+
+  #r{
+    background-color: red;
+  }
