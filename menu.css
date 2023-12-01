@@ -1,0 +1,25 @@
+body{
+    font-family:poping;
+}
+
+
+
+header{
+    height: 100zwh;
+    width: 100vw;
+    background-image: url(img/cartem.jpg);
+    background-size: cover;
+}
+.navbar{position: absolute;
+margin =50;
+display: flex;
+justify-content: space;
+box-sizing: border-box;
+}
+.navbar a{
+    color : width;
+}
+.navbar-logo{
+    font-size: 2px
+    
+}
